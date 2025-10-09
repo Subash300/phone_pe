@@ -62,3 +62,64 @@ Provides information based on the ** year and Quarter**
 INSIGHTS:
 From the analysis, basic insights were given in user friendly manner.
 Also provided with the annual report
+
+
+
+🧩 1️⃣ Decoding Transaction Dynamics on PhonePe
+💡 SQL Query Tasks:
+
+1.Total Transactions by State and Quarter
+2.Top 5 States by Transaction Volume
+Growth Rate of Transactions (Quarter over Quarter)
+Average Transaction Value per Payment Category
+States Showing Decline in Transactions
+
+📱 2️⃣ Device Dominance and User Engagement Analysis
+💡 SQL Query Tasks:
+Total Registered Users by Device Brand
+App Opens vs Registrations (Engagement Ratio)
+Top 3 Devices by Active Engagement
+Least Utilized Devices (High Users but Low Opens)
+Device Usage by Region Trend
+
+
+🛡️ 3️⃣ Insurance Penetration and Growth Potential
+💡 SQL Query Tasks:
+
+Total Insurance Transactions by State
+Average Premium per Policy
+Top 5 States with Highest Premium Collection
+Quarterly Insurance Growth
+Identify Underpenetrated States
+
+🌍 4️⃣ Transaction Analysis for Market Expansion
+💡 SQL Query Tasks:
+
+Total Transaction Value by State
+Average Transaction Value per User
+Top 10 States by Growth Rate
+Category-wise Transaction Trends
+Low Performing States for Expansion Focus
+
+
+👥 5️⃣ User Engagement and Growth Strategy
+💡 SQL Query Tasks:
+
+Total Registered Users by State
+App Opens vs Registered Users (Engagement %)
+Top 5 States with Highest Active Users
+Districts Showing Highest Growth in Users
+Inactive User States (Low Engagement)
+
+
+
+
+
+
+
+
+
+
+
+
+
